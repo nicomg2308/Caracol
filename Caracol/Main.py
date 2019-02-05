@@ -1,4 +1,4 @@
-import lib as lb
+import Logicaas lb
 
 def main():
     m = lb.txtToArray(open("recorrido.txt").read())
